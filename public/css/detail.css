@@ -1,0 +1,35 @@
+:root {
+    /* CSS HEX */
+    --imperial-red: #e63946ff;
+    --honeydew: #f1faeeff;
+    --powder-blue: #a8dadcff;
+    --celadon-blue: #457b9dff;
+    --prussian-blue: #1d3557ff;
+}
+
+#controls {
+    margin-top: 2%;
+}
+
+#car_info {
+    background-color: var(--honeydew);
+    font-size: x-large;
+}
+
+#car_info .row{
+    height: 250px;
+}
+
+#car_info h4{
+    margin-left: 85px;
+}
+
+#car_img {
+    height: 250px;
+    width: auto;
+    margin-left: 25%;
+}
+
+#back_button{
+    width: 100%;
+}
